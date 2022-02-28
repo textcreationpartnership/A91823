@@ -1,0 +1,1923 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ingenious poem, called The drunkards prospective, or Burning-glasse. Composed by Joseph Rigbie, gentleman, clerke of the peace of the county palatine of Lancaster.</title>
+            <title>Drunkards prospective</title>
+            <author>Rigby, Joseph, d. 1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91823</idno>
+            <idno type="STC">Wing R1473</idno>
+            <idno type="STC">Thomason E1606_3</idno>
+            <idno type="STC">ESTC R22176</idno>
+            <idno type="EEBO-CITATION">99871639</idno>
+            <idno type="PROQUEST">99871639</idno>
+            <idno type="VID">170152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91823)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 203:E1606[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ingenious poem, called The drunkards prospective, or Burning-glasse. Composed by Joseph Rigbie, gentleman, clerke of the peace of the county palatine of Lancaster.</title>
+                  <title>Drunkards prospective</title>
+                  <author>Rigby, Joseph, d. 1671.</author>
+               </titleStmt>
+               <extent>[12], 29, [11] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold at the Brazen Serpent in St Pauls Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656. [i.e. 1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nouember 1st"; the second 6 in the imprint date has been crossed out and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alcoholics --  England --  Early works to 1800.</term>
+               <term>Alcoholism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170152:1" rendition="simple:additions"/>
+            <p>
+               <hi>AN INGENIOVS POEM, CALLED THE DRVNKARDS PROSPECTIVE, OR Burning-Glaſſe.</hi>
+            </p>
+            <p>
+               <hi>Compoſed by JOSEPH RIGBIE, Gentleman, Clerke of the Peace of the County</hi> Palatine <hi>of</hi> Lancaſter.</p>
+            <q>
+               <l>Lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, this proſpective to the Drunkard ſhowes</l>
+               <l>His odious poſtures, and his dreadfull woes.</l>
+               <l>Like as the <hi>Elephant,</hi> hee may here ſee</l>
+               <l>In pure cleare waters, his deformity.</l>
+               <l>I wiſh the ſight thereof may ſore affright him,</l>
+               <l>Repentance and amendment much delight him;</l>
+               <l>Or elſe the <hi>Burning Glaſſe</hi> will ſurely place</l>
+               <l>An everl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſting brand upon his face.</l>
+            </q>
+            <p>London, <hi>Printed for the Author, and are to be ſold at the</hi> Brazen Serpent <hi>in St</hi> Pauls <hi>Church-yard,</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170152:2"/>
+            <pb facs="tcp:170152:2"/>
+            <head>To the religious and honourable La<g ref="char:EOLhyphen"/>dy, <hi>Margaret Hoghton,</hi> relict of Sir <hi>Gil<g ref="char:EOLhyphen"/>bert Hoghton</hi> Knight and Baronet.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <l>I Have made bold to put your name,</l>
+            <l>In front of this ſmall work, to grace the ſame.</l>
+            <l>Your ſuperſcription fixed in its bonnet,</l>
+            <l>I hope will cauſe ſome good men look upon it.</l>
+            <l>It's a deſigne in me I muſt confeſſe,</l>
+            <l>To uſe your name, and make you Patroneſſe:</l>
+            <l>That (worthleſſe in it ſelfe, yet) it may paſſe,</l>
+            <l>And have the ſplendor of a burning glaſſe.</l>
+            <l>Which from the eye of heaven borrowing flame,</l>
+            <l>Shines and burnes out by vertue of the ſame. Madam,</l>
+            <l>In this ſame treatiſe you ſhall finde</l>
+            <l>Deſcription of a Drunkard in his kinde.</l>
+            <l>Out of his robes you have him here quite ſtript,</l>
+            <l>And naked laid, for to be laſht and whipt<hi>:</hi>
+            </l>
+            <l>His face is ſo unvailed with his cloathing,</l>
+            <l>That poſſibly the ſight may cauſe a loathing.</l>
+            <l>And if it chance one ſoule but for to gaine,</l>
+            <l>I ſhall not count it labour ſpent in vaine.</l>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Ladiſhips moſt humble Servant, <hi>J. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170152:3"/>
+            <head>To his truly Vertuous, and right Worthy Miſtriſſe, <hi>Ann</hi> Daughter of Sir <hi>Gualt her Blount,</hi> Knight and Baronet: Wife of <hi>James Anderton</hi> of <hi>Birch<g ref="char:EOLhyphen"/>ley</hi> Eſquire.</head>
+            <opener>
+               <salute>Miſtreſſe,</salute>
+            </opener>
+            <l>BY your faire hand I have made bold,</l>
+            <l>This little ſcroll of caution out to hold:</l>
+            <l>That by the fairneſſe of the frontiſpice,</l>
+            <l>Many may be induc'd to caſt their eyes,</l>
+            <l>And ſeing your honoured name, may further look,</l>
+            <l>To be informed what's within this book.</l>
+            <l>I doe expect the brand of a black cole,</l>
+            <l>Cavill, will (if it find none) make an hole.</l>
+            <l>Me a poore ſpirited man you might ſuppoſe,</l>
+            <l>Should I affect the ſuffrages of thoſe.</l>
+            <l>Let it but in eſteem with you prevaile,</l>
+            <l>And in their Temples it will prove a naile.</l>
+            <l>They'l blaze but for a while like kitchin-ſtuff,</l>
+            <l>And inſtantly will vaniſh in a ſnuffe.</l>
+            <closer>
+               <salute>Miſtriſſe,</salute>
+               <signed>Your moſt humble and faithfull SERVANT, <hi>I. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170152:3"/>
+            <head>To the Right Worſhip<g ref="char:EOLhyphen"/>full, united in Candor and Knowledge, <hi>Richard Shutleworth</hi> of <hi>Gauthrop,</hi> and <hi>John Starkie</hi> of <hi>Huntroid,</hi> Eſquires, Juſtices aſſi<g ref="char:EOLhyphen"/>gned to keep the Peace in the County of <hi>Lancaſter.</hi>
+            </head>
+            <opener>
+               <salute>Right Worthy,</salute>
+            </opener>
+            <lg>
+               <l>THus have I now in my declining age,</l>
+               <l>Adventured my ſelfe upon the ſtage.</l>
+               <l>With reſolution for to undergoe</l>
+               <l>The cenſures of the moſt detracting foe.</l>
+               <l>As <hi>Baalam's</hi> Aſſe his mouth was opened wide,</l>
+               <l>Even ſo is mine the drunkard for to chide.</l>
+               <l>Loe, here you have him painted, though ſo ill,</l>
+               <l>I wiſh him painted by ſome better quill.</l>
+            </lg>
+            <lg>
+               <l>Worthies, For temperance you are of all</l>
+               <l>Your Country-men and Neighbours, principall.</l>
+               <l>And neither <hi>Rome</hi> nor <hi>Athens</hi> ever hatcht</l>
+               <l>Two head-pieces more ſound, more fitly matcht.</l>
+               <l>Oh, doe not bluſh I pray, that I preſent</l>
+               <l>This worke to you, ſo wiſe, ſo abſtinent.</l>
+               <l>
+                  <pb facs="tcp:170152:4"/>
+Vouchſafe it but the favour of your ſight,</l>
+               <l>Aſſure your ſelves it is no Hypocrite.</l>
+               <l>And though your knowledge ſentence on it give,</l>
+               <l>Candor reprieve it, and ſo let it live.</l>
+               <l>Let it be read I pray in your owne quire,</l>
+               <l>And through the confines of your Blackburnſhire.</l>
+               <l>And this prodigious ſinne thus put to ſhow,</l>
+               <l>May by God's bleſſing for ought we do know,</l>
+               <l>Both work with our, and after generations,</l>
+               <l>For to abhor ſuch baſe abominations.</l>
+            </lg>
+            <closer>
+               <signed>So prayeth your moſt obedient Servant J. R.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170152:4"/>
+            <head>To the Right Worſhip<g ref="char:EOLhyphen"/>ful, truly Noble, and his wor<g ref="char:EOLhyphen"/>thy Honored Friend and Neigh<g ref="char:EOLhyphen"/>bour, <hi>Roger Bradſhaigh</hi> of <hi>Haigh</hi> Eſquire.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <l>THen to your ſelfe, that man I doe not know,</l>
+            <l>To whom more obligation I doe owe.</l>
+            <l>You'r bleſt with love of Neighbours; and beſide,</l>
+            <l>Bleſt with th' enjoiment of a lovely Bride.</l>
+            <l>Bleſt with a faire eſtate, and likewiſe bleſt</l>
+            <l>With hopefull Iſſue added to the reſt.</l>
+            <l>Bleſt with a diſpoſition for to live</l>
+            <l>With decency, on that which God doth give.</l>
+            <l>Bleſt with the Love of Gentry which reſort,</l>
+            <l>And want no welcome to your Noble Court.</l>
+            <l>None can (our obſervation notes it well)</l>
+            <l>For Hoſpitality you parallell.</l>
+            <l>Wherefore I do this work to you preſent,</l>
+            <l>But not as dead mens Corps to th' Church are ſent</l>
+            <l>For to be laid in grave; but to be read</l>
+            <l>Amongſt your people, when your Table's ſpread.</l>
+            <l>
+               <pb facs="tcp:170152:5"/>
+That at your plenteous Table none may feed</l>
+            <l>Nor drink, but for refreſhment, and for need.</l>
+            <l>Nor after Drunkards, or the Gluttons mode,</l>
+            <l>Their Stomacks or their Underſtanding loade.</l>
+            <l>Then will your Table not become a ſnare,</l>
+            <l>Either to you or them (be't round or ſquare)</l>
+            <l>But God that gives you ſuch variety,</l>
+            <l>Seeing your temperate uſe, and great ſobriety;</l>
+            <l>Doubtleſſe will bleſſe and add unto your ſtore,</l>
+            <l>As to your Predeceſſors heretofore,</l>
+            <l>And queſtionleſſe, in honour and in fame,</l>
+            <l>Will ſtill at <hi>Haigh</hi> preſerve the <hi>Bradſhaigh's</hi> name.</l>
+            <closer>
+               <salute>Moſt Honoured Sir,</salute>
+               <signed>Your moſt obliged, and moſt humble Servant, J. R.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170152:5"/>
+            <head>To the Courteous and Ju<g ref="char:EOLhyphen"/>dicious Reader.</head>
+            <lg>
+               <l>EXperience teacheth that ther's no one thing</l>
+               <l>Can pleaſe each one; not Parliament nor King.</l>
+               <l>That each one is not pleas'd with a Protector;</l>
+               <l>A wiſe <hi>
+                     <g ref="char:V">Ʋ</g>lyſſes,</hi> nor a Valiant <hi>Hector.</hi>
+               </l>
+               <l>That ſome on virtue ſet a mighty price;</l>
+               <l>And others are as far in love with vice.</l>
+               <l>That croſſed wickedneſſe will never yield,</l>
+               <l>But challeng'd others uprightneſſe the field.</l>
+               <l>To take exceptions is a thing not rare,</l>
+               <l>Mens cenſures various, as their palats are.</l>
+               <l>Wiſe <hi>Solomon,</hi> and Prophet <hi>Ieremie,</hi>
+               </l>
+               <l>Tels me before hand what my wage ſhall bee.</l>
+               <l>He that a ſcorner doth reprove or blame,</l>
+               <l>Inſtead of love, t' himſelfe ſhall purchaſe ſhame.</l>
+               <l>For they will take it as an open wrong,</l>
+               <l>And ſay, come let us ſmite him with the tongue.</l>
+               <l>Shall I then ſilent be, and ſpare to ſpeak,</l>
+               <l>Fearing the cenſures both of wiſe and weake.</l>
+               <l>Nay, I'll all cenſures ſet as light as cinder,</l>
+               <l>Ere I the good of one poore ſoule will hinder.</l>
+               <l>Admit their ſwords inſtead of tongues were moving,</l>
+               <l>As to <hi>Iohn Baptiſt, Herod</hi> for reproving;</l>
+               <l>I'll ſeek God's glory (as in duty bound)</l>
+               <l>Although my corps be breathleſſe ſent to ground)</l>
+               <l>
+                  <pb facs="tcp:170152:6"/>
+If I do ill, no plea can warrant me,</l>
+               <l>If well, by none diſcourag'd can I be;</l>
+               <l>Yet that my ſelfe and Reader both may be,</l>
+               <l>From being miſtaken and miſtaking, free,</l>
+               <l>I will remove ſome rubs, levell the way,</l>
+               <l>And pave a tract to what I meane to ſay.</l>
+               <l>'Gainſt this diſcourſe what will alleadged be,</l>
+               <l>My ſelfe without a Teacher can foreſee.</l>
+               <l>I could both raiſe and anſwer to their hand,</l>
+               <l>All the Objections which they could demand:</l>
+               <l>Two for to anſwer I will do my beſt,</l>
+               <l>I count it labour loſt to name the reſt.</l>
+            </lg>
+            <lg>
+               <l>Firſt, my compariſons and expreſſions all,</l>
+               <l>Some (without doubt) will into queſtion call,</l>
+               <l>And tearme them light and homely, let ſuch know</l>
+               <l>We are agre'd, I do confeſſe them ſo.</l>
+               <l>And this I do, preſuming that I may,</l>
+               <l>With his owne ſword the great Goliah ſlay;</l>
+               <l>And think it beſt, that Drunkards ſhould be checkt,</l>
+               <l>And argued with in their own dialect.</l>
+               <l>Moreover to paint out, or to explaine</l>
+               <l>Their light, laſcivions garb, and language vaine.</l>
+               <l>It were not poſſible, or to expreſſe,</l>
+               <l>In grave or modeſt words, their filthineſſe.</l>
+            </lg>
+            <lg>
+               <l>Next; if that any to this vice addicted</l>
+               <l>Bee with the harſhneſſe of my ſtile afflicted,</l>
+               <l>I wiſh they would caſt their impartiall glances,</l>
+               <l>Upon theſe few enſuing circumſtances.</l>
+               <l>And then this pardon I ſhall ſurely win;</l>
+               <l>They'l only blame the foulneſſe of their ſin.</l>
+            </lg>
+            <lg>
+               <l>Firſt, then with me conſider (if they pleaſe)</l>
+               <l>The med'cine is but fit for the diſeaſe.</l>
+               <l>Neceſſity requires, and each one knowes</l>
+               <l>The knottieſt hearts muſt have the ſtrongeſt blowes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:170152:6"/>
+               <l>And ſecondly, we all may bleſſe thoſe times</l>
+               <l>That moſt diſcover unto us our crimes.</l>
+               <l>For till that we to knowledge doe attaine,</l>
+               <l>Of the diſeaſe, we hardly eaſe the paine.</l>
+               <l>Sinne to reprove is mercy (this I dare</l>
+               <l>Boldly affirme) and cruelty to ſpare,</l>
+            </lg>
+            <lg>
+               <l>Thirdly, I wiſh they would (in manner like)</l>
+               <l>Think and conſider well, that I do ſtrike</l>
+               <l>Not at the tree, but at the worm therein,</l>
+               <l>Not at themſelves, but at their deadly ſinne:</l>
+               <l>Knowing that I a deadly blow muſt give</l>
+               <l>Unto their ſins, or elſe they cannot live.</l>
+            </lg>
+            <lg>
+               <l>Fourthly, that no Phyſitian ſhould be ſhent,</l>
+               <l>But the diſeaſe, for paine of Patient.</l>
+               <l>Nor the Chyrurgion, but the wound for ſure,</l>
+               <l>Which he endeavours by all meanes to cure.</l>
+            </lg>
+            <lg>
+               <l>Fiftly, conſider all is done in love,</l>
+               <l>And bitter pils do oft moſt wholſome prove.</l>
+               <l>Yea, they will ſuffer letting out of blood,</l>
+               <l>When they do know it tendeth to their good.</l>
+               <l>And let them know, theſe keene invectives are</l>
+               <l>Drawne up againſt them, not as men of war;</l>
+               <l>But ſhot like <hi>Jonathan's</hi> arrowes, to the end,</l>
+               <l>Not to deſtroy but to adviſe his friend.</l>
+            </lg>
+            <lg>
+               <l>Sixtly, what torment it will be to beare</l>
+               <l>Thoſe judgements which ſo dreadfull are to heare.</l>
+               <l>And ſtand in reſolution firmly grounded,</l>
+               <l>Rather to be converted then confounded.</l>
+            </lg>
+            <lg>
+               <l>Then, this enſuing Treatiſe I adviſe</l>
+               <l>Them for to read, but without prejudice.</l>
+               <l>And though it ſeem both rigid, tart, and ſharp,</l>
+               <l>Yet it may prove to them as <hi>David's</hi> Harp</l>
+               <l>Was unto Sau; on which when he did play,</l>
+               <l>The evill ſpirit he frighted quite away.</l>
+               <l>
+                  <pb facs="tcp:170152:7"/>
+Or as thoſe Meſſengers that came to <hi>Lot,</hi>
+               </l>
+               <l>And him out of that ſinfull <hi>Sodome</hi> got<hi>:</hi>
+               </l>
+               <l>Or as the crowing Cock did mind his fall,</l>
+               <l>And <hi>Peter</hi> back unto repentance call.</l>
+            </lg>
+            <lg>
+               <l>Theſe things conſidered, I moſt humbly crave</l>
+               <l>Him that is knowne the keye of hearts to have,</l>
+               <l>T' open th' eyes of each poore ſoule, that hee</l>
+               <l>His dangerous condition may ſee.</l>
+               <l>To bleſſe this meanes preſcribed for their good,</l>
+               <l>That it may prove to them a lively food.</l>
+            </lg>
+            <lg>
+               <l>So to th' judicious Reader's judgement, I</l>
+               <l>Refer my ſelfe, and this my induſtry.</l>
+               <l>Not doubting but acceptance it will find,</l>
+               <l>With every honeſt, well diſpoſed mind:</l>
+               <l>And as for thoſe of judgement ignorant,</l>
+               <l>They cannot love that, therefore let them rant,</l>
+               <l>Aſſault, detract, aſperſe, revile, I care not,</l>
+               <l>String up their bowes, &amp; ſhoot at me and ſpare not.</l>
+            </lg>
+            <closer>
+               <signed>And ſo farewel. Thy true friend J. R.</signed>
+               <dateline>From my ſtu<g ref="char:EOLhyphen"/>dy this laſt of <date>
+                     <hi>May,</hi> 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:170152:7"/>
+            <head>THE DRVNKARDS PROSPECTIVE, OR BVRNING-GLASSE.</head>
+            <lg>
+               <l>A Drunkard; ſuch an one I take to be,</l>
+               <l>As not for thirſt, but for the company,</l>
+               <l>For pride, for luſt, or conſcience to ſtil,</l>
+               <l>Or for to drive the time away, doth ſwill.</l>
+               <l>And he to be a creature may be ſaid,</l>
+               <l>That God in the Creation never made.</l>
+            </lg>
+            <lg>
+               <l>Halfe man, halfe beaſt he is, or at the leaſt,</l>
+               <l>He's one that's born a man, and lives a beaſt.</l>
+               <l>An humane carkaſſe he may be ſuppos'd,</l>
+               <l>That hath a beaſtiall heart therein inclos'd.</l>
+               <l>His heart is chang'd from man<hi>'s,</hi> and in its roome</l>
+               <l>A beaſt's is plac'd, <hi>Nebuchadnezzars</hi> doome.</l>
+            </lg>
+            <lg>
+               <l>Where other ſins God's Image do deface,</l>
+               <l>This leaves him not a man<hi>'s,</hi> it is ſo baſe:</l>
+               <l>It takes both ſpeech and reaſon from the elfe,</l>
+               <l>And for the preſent robs him of himſelfe.</l>
+               <l>All ſins whatſoever in a drunken man</l>
+               <l>Doe meet like Rivers in the Ocean.</l>
+               <l>
+                  <pb n="2" facs="tcp:170152:8"/>
+He's like the <hi>Swetian Ierffe</hi> in qualitie,</l>
+               <l>A beaſt (as Hiſtory tels) whoſe property</l>
+               <l>Is, when he hath ſome carkaſſe found or game.</l>
+               <l>Fals a devouring ſpeedily the ſame;</l>
+               <l>And never feeding leaves, untill that he,</l>
+               <l>Like Bag-pipes ſtrouted feeles his paunch to be.</l>
+               <l>And between two narrow trees he ſtraines</l>
+               <l>Out backward, what his ſtrouted paunch containes.</l>
+               <l>And ſo being emptied, with al might and main</l>
+               <l>He gallops to the Carkaſſe back againe;</l>
+               <l>And fils himſelfe untill his belly ſtrout;</l>
+               <l>And ſo the ſecond time he ſtraines it out:</l>
+               <l>And ſo he fils, and empties as before,</l>
+               <l>Till all's conſum'd and then he hunts for more.</l>
+               <l>With Thuſcian Aſſes you may him inſtall,</l>
+               <l>Who fed with hemlocks ſo aſleep do fall;</l>
+               <l>That Country men do oft for dead them take,</l>
+               <l>Halfe flea their skins before they will awake.</l>
+               <l>Such qual<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties he hath, no Creature can</l>
+               <l>For ſhame report him for to be a man.</l>
+               <l>Like to a Swine he ſwils, kicks like an Aſſe,</l>
+               <l>Neighs, like a Horſe, at women as they paſſe.</l>
+               <l>As Beare, or Wolfe, or Tyger fierce, and juſt</l>
+               <l>Like to a Bull he rageth in his luſt.</l>
+               <l>As ſubtle as a Fox, can foyſt, and cog,</l>
+               <l>As impudent, and ſhameleſſe as a Dog.</l>
+               <l>Svren for flattery, Aſpe in tongue; and ſtings</l>
+               <l>Thoſe like a Scorpion that he with him brings.</l>
+               <l>In appetite a Leech, geſture an Ape,</l>
+               <l>Nothing remaines of man ſave only ſhape<hi>:</hi>
+               </l>
+               <l>And that affrights the more, when as we ſee</l>
+               <l>A beaſt in likeneſſe of a man to be.</l>
+               <l>Yet his condition he doth like ſo well,</l>
+               <l>He'll not be drawn to Heaven out of Hell.</l>
+               <l>
+                  <pb n="3" facs="tcp:170152:8"/>
+Wiſh that his converſation he would change,</l>
+               <l>He'll ſcorn your counſell, and will think it ſtrange.</l>
+               <l>For as all uſe of reaſon he hath loſt,</l>
+               <l>If you ſpeake any, he conceives he's croſt.</l>
+            </lg>
+            <lg>
+               <l>His caſe is not unlike in his owne Region,</l>
+               <l>To his that in the Goſpell's called Legion.</l>
+               <l>Who having been with Devils long poſſeſt,</l>
+               <l>At laſt was very loath to part with's gueſt.</l>
+               <l>Yea thought himſelfe tormented, when to ſave him</l>
+               <l>
+                  <hi>Chriſt</hi> came to caſt them out, he would not have him.</l>
+            </lg>
+            <lg>
+               <l>Drink beaſtiates the heart, and ſpoiles the brains,</l>
+               <l>Exiles all reaſon, all good graces ſtaines.</l>
+               <l>Infatuates judgement, underſtanding blinds,</l>
+               <l>Perverts the wils, and doth corrupt the minds.</l>
+               <l>It doth ſurprize the thoughts, and it doth all</l>
+               <l>The powers and faculties of ſoule enthrall.</l>
+               <l>A man it wholly rendereth unfit for</l>
+               <l>A private friend, or publike Councellour.</l>
+            </lg>
+            <lg>
+               <l>Exceſſe of wine away mens hearts ſo drawes,</l>
+               <l>Makes them forget both God and all his lawes.</l>
+               <l>Yea makes men utterly ſo fall from God,</l>
+               <l>They'r ne'r recall'd by mercy, nor by rod.</l>
+               <l>For by this ſinne the heart it is ſo ſtenched,</l>
+               <l>All luſt ſo ſtrengthned and the ſpirit quenched;</l>
+               <l>That it repentance Organs overthrowes,</l>
+               <l>And with impenitence doth fully cloſe.</l>
+               <l>Yea Drunkenneſſe it ſelfe hath ever been</l>
+               <l>In power ſuperlative to every ſinne.</l>
+            </lg>
+            <lg>
+               <l>For Wine, like ſtocks and ſtones doth drunkards make,</l>
+               <l>And ſenſe and motion both doth from them take.</l>
+               <l>That fitly they to Heathen Idols be</l>
+               <l>Compared, which have eyes yet cannot ſee.</l>
+               <l>Have hands, and handle not, tongues doe not talke,</l>
+               <l>Have feet, and yet like dead men cannot walke.</l>
+               <l>
+                  <pb n="4" facs="tcp:170152:9"/>
+Have eares, and heare not; nay, the truth to tell,</l>
+               <l>Noſes, and (their own vomits) cannot ſmell.</l>
+            </lg>
+            <lg>
+               <l>And if for men they would reputed be,</l>
+               <l>They are but like that man in lunacie;</l>
+               <l>Vext with an evill ſpirit, wherewithall,</l>
+               <l>Oft into fire and water he did fall,</l>
+               <l>Whom none could cure untill the Maſter came,</l>
+               <l>Though his Diſciples did attempt the ſame.</l>
+               <l>So brutiſh Drunkards, through exceſſe are loſt,</l>
+               <l>And by that fiend from poſt to pillar toſt.</l>
+               <l>
+                  <hi>Moſes,</hi> nor <hi>Aaron,</hi> they cannot endure,</l>
+               <l>
+                  <hi>Caeſar</hi> nor <hi>Paul</hi> can work on them no cure.</l>
+               <l>Nor word, nor ſword, can make them to decline</l>
+               <l>Their wicked waies; ſuch are the fruits of Wine.</l>
+            </lg>
+            <lg>
+               <l>This an hard ſaying by ſome may be thought;</l>
+               <l>But thus much we from Gods own word are taught.</l>
+               <l>And I may ſpeak it as a truth moſt clear,</l>
+               <l>That corporall torments of ill ſpirits, here</l>
+               <l>Are not ſo rare, as ſpirituall are rife,</l>
+               <l>From which no man is free in this our life.</l>
+               <l>One hath the ſpirit of errour, another of feare,</l>
+               <l>Departs from faith to truth, dare not appeare.</l>
+               <l>A third of Fornication; and the next,</l>
+               <l>Sore with the ſpirit of blaſphemy is vext.</l>
+               <l>A fifth, with th' ſpirit of Giddineſſe is led,</l>
+               <l>Not having underſtanding in his head.</l>
+               <l>Some have the ſpirit of pride, others of ſlumber,</l>
+               <l>Envy and falſhood doe poſſeſſe a number.</l>
+               <l>All have a worldly ſpirit<hi>:</hi> but Drunkards have</l>
+               <l>Legions of ſpirits leading to their grave.</l>
+               <l>For every raigning ſinne a Devill is,</l>
+               <l>And quite deprives them of eternall bliſſe.</l>
+               <l>Drunkards are Captives to the Devill, ſtill</l>
+               <l>At his command, ready to doe his will;</l>
+               <l>
+                  <pb n="5" facs="tcp:170152:9"/>
+He is their Father, King, their God, their treaſure,</l>
+               <l>Ruling and in them working his owne pleaſure.</l>
+               <l>He makes them Traitors, as he <hi>Iudas</hi> did,</l>
+               <l>Puts in their hearts to do what he ſhall bid.</l>
+               <l>Like <hi>Ananias</hi> and <hi>Sapphira</hi> both,</l>
+               <l>Makes them to lye (nay bind it with an oath)</l>
+               <l>He enters Drunkards, and with one accord,</l>
+               <l>Makes them to tempt the ſpirit of the Lord.</l>
+               <l>As by the Serpent he ſpeaks in them, by them;</l>
+               <l>Or <hi>Ahab's</hi> Prophets if you doe but try them.</l>
+               <l>He acts by them, and ſtretcheth forth their hand,</l>
+               <l>As by King <hi>Herod</hi> over all the Land.</l>
+            </lg>
+            <lg>
+               <l>So that as <hi>Paul,</hi> guided by God you ſee,</l>
+               <l>Could ſay I live not, but God lives in me.</l>
+               <l>So Drunkards they may ſay, and fitly thus;</l>
+               <l>We live not, but the Devill lives in us.</l>
+               <l>For they ſo curſe ſo ſwear, ſo skip, ſo hop.</l>
+               <l>That queſtionleſſe they have receiv'd the ſop.</l>
+               <l>Drunkards with their own conſcience do not 'gree,</l>
+               <l>But with remembrance of their vices be</l>
+               <l>Diſquieted: And ſtill their thoughts torment,</l>
+               <l>With feare of ſome enſuing puniſhment;</l>
+               <l>And with the gripes of conſcience pinched thus,</l>
+               <l>Seek out companions boon, voluptuous.</l>
+               <l>So that to Stewes and Taverns they are given,</l>
+               <l>And thither as free horſes they are driven,</l>
+               <l>That trot away, need neither ſpur nor wand,</l>
+               <l>Let them but ſee the ſhaking of a hand.</l>
+               <l>Nay they are ſuch ſworne friends unto the cup,</l>
+               <l>They'll need no more, hold but a finger up;</l>
+               <l>They are ſo ready at the Devil's becks,</l>
+               <l>They'll poſt as if they meant to break their necks.</l>
+               <l>If he ſuggeſt the thought, or ſpeak the word,</l>
+               <l>They'll any miſchiefe act by tongue or ſword.</l>
+               <l>
+                  <pb n="6" facs="tcp:170152:10"/>
+If he ſay ſlander, lye, they'll doe you'll ſee,</l>
+               <l>As fully falſely, ſpirefully as he.</l>
+               <l>If he bid quarrell, fight, revenge; nay worſe,</l>
+               <l>Murther, deſtroy, blaſpheme, forſwear, and curſe.</l>
+               <l>They inſtantly obey; and doe begin</l>
+               <l>To act, as ſoone as he commands the ſinne.</l>
+            </lg>
+            <lg>
+               <l>Thus farre I have Drunkards ſet forth entire,</l>
+               <l>And think that none can tax me for a lyer.</l>
+               <l>Now whilſt they ſit and take the other cup,</l>
+               <l>I will anatomize and cut them up;</l>
+               <l>And I will ſparingly in this my verſe,</l>
+               <l>But few of their ill qualities rehearſe,</l>
+               <l>Inſtead of a great number, ſo that you</l>
+               <l>May well by them gueſſe at the reſidue<g ref="char:punc">▪</g>
+               </l>
+               <l>The firſt ill quality I doe preſent,</l>
+               <l>Is, that they think each hour a day that's ſpent;</l>
+               <l>Each day a moneth, that they'r not at the tap;</l>
+               <l>Or tumbled downe to take a gentle nap;</l>
+               <l>Or that their money be all ſpent and gone,</l>
+               <l>And credit with the tapſter they have none:</l>
+               <l>And when they have thus laviſht out their ſtore,</l>
+               <l>They plot and practice how they ſhould get more;</l>
+               <l>And ſo they fall to ſecret miſchiefe hence,</l>
+               <l>Or to an open courſe of violence.</l>
+               <l>So that the taphouſe fits them for the Jaile,</l>
+               <l>The Jaile to th' gibbet ſends them without faile<hi>:</hi>
+               </l>
+               <l>For thoſe that through a Lattice ſang of late,</l>
+               <l>You oft find crying through an iron grate.</l>
+               <l>Yet this the work of many moneths may be;</l>
+               <l>But trace them ſtep by ſtep and you ſhall ſee,</l>
+               <l>So ſoone as to the Ale-bench they are got,</l>
+               <l>Up comes uncall'd for, every man his pot.</l>
+               <l>
+                  <pb n="7" facs="tcp:170152:10"/>
+(Of loſing of their cuſtome upon paine)</l>
+               <l>Which being doft, are quickly fill'd againe:</l>
+               <l>For their attendant hath a ſtrict command,</l>
+               <l>That the pots neither full nor empty ſtand.</l>
+               <l>Thus they each day as ſoon as they do riſe,</l>
+               <l>Offer to <hi>Bacchus</hi> their firſt ſacrifice.</l>
+               <l>If you the reaſon do deſire to know,</l>
+               <l>I will it in a word moſt plainly ſhew.</l>
+               <l>In mornings being ſick, to th' jugg they jog,</l>
+               <l>Each one to take a haire of the ſame dog</l>
+               <l>That bit them over-night; And ſo they firſt,</l>
+               <l>Do drunkenneſſe prepare, to add to thirſt.</l>
+               <l>To qualify the old heate with a new,</l>
+               <l>By drinking <hi>Savin,</hi> to waſh down the <hi>Rue:</hi>
+               </l>
+               <l>Which is not ſin to cure, but ſinne to ſmother,</l>
+               <l>Heaping up vengeance one upon another.</l>
+               <l>Or as ſome Surgeons uſe to deale,</l>
+               <l>By deading fleſh an ulcer for to heale;</l>
+               <l>Which to the ſore doth give but ſmall reliefe,</l>
+               <l>But renders them inſenſible of griefe.</l>
+            </lg>
+            <lg>
+               <l>Through deſperate cuſtome hath this viperous brood,</l>
+               <l>Made others phyſick their own naturall food.</l>
+               <l>For they themſelves to tipling ſo do give,</l>
+               <l>Without exceſſe of Wine they cannot live.</l>
+               <l>They drink, and vent, and vent, and drink amaine,</l>
+               <l>
+                  <hi>Sell<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngers</hi> round, and then the ſame againe.</l>
+            </lg>
+            <lg>
+               <l>Yea every cup is faſt to others wedg'd,</l>
+               <l>They alwaies double drink, they muſt be pledg'd.</l>
+               <l>He that begins, how many ſoe'r they be,</l>
+               <l>Looks that each one do drink as much as he;</l>
+               <l>And he will drink although his face he mars,</l>
+               <l>Untill his eyes do ſtare like blazing ſtars.</l>
+            </lg>
+            <lg>
+               <l>And now by that, that theſe gutmongers brave,</l>
+               <l>Dubbled their mornings draught moſt finely have,</l>
+               <l>
+                  <pb n="8" facs="tcp:170152:11"/>
+And gulped downe each one a many quarts,</l>
+               <l>As eaſy as their drink, up comes their hearts<hi>:</hi>
+               </l>
+               <l>Yea let them get a pot more in their pate,</l>
+               <l>You'd wonder how confuſedly they'll prate.</l>
+               <l>Their reſtleſſe tongues do to ſmall purpoſe chatter,</l>
+               <l>And, like looſe windowes in the wind, do clatter.</l>
+               <l>As ſick mens pulſes in diſtemper great</l>
+               <l>Alwaies (but ever out of order) beat.</l>
+            </lg>
+            <lg>
+               <l>And in the looſe diſcourſe, which from them flowes,</l>
+               <l>All ſecrets whatſoever they diſcloſe.</l>
+               <l>As when Wine purgeth that comes to the brim,</l>
+               <l>Which is i'th' bottome, and a loft doth ſwim,</l>
+               <l>Or elſe the veſſell burſteth: Even ſo</l>
+               <l>Doth Drunkennes vent what the heart doth know.</l>
+            </lg>
+            <lg>
+               <l>For if that wiſedome and diſcretion be</l>
+               <l>Hoops to a veſſell; pray you then tell me,</l>
+               <l>How ſhould the liquor in theſe hogſheads ſtay,</l>
+               <l>When that the hoops are taken quite away.</l>
+               <l>And amongſt Drunkards it's an ancient Law,</l>
+               <l>For to diſgorge the boſome with the Maw.</l>
+            </lg>
+            <lg>
+               <l>When Malt's above the wheat, they are ſo ſtrong,</l>
+               <l>They il can rule their hands, but worſe their <hi>tongue.</hi>
+               </l>
+               <l>For that's ſo oil'd with cups, and made ſo bold,</l>
+               <l>So glib, ſo laxative, it cannot hold.</l>
+               <l>Drinke turns the key o'th' tongue, and doth unlock</l>
+               <l>Thoſe counſels all, which wiſdome hath in ſtock.</l>
+            </lg>
+            <lg>
+               <l>And drunkards ſeem to be no little proud,</l>
+               <l>That their diſcourſe is full as lewd as loud.</l>
+               <l>For as in anger, ſpitefully they rave,</l>
+               <l>So in their mirth, beaſtly diſcourſe they h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve.</l>
+               <l>Their bawdy, ſhameleſſe language in their drinke,</l>
+               <l>Like gaping Oyſters makes their mouths to ſtinke.</l>
+            </lg>
+            <lg>
+               <l>They have more rage then reaſon, if you mark,</l>
+               <l>Backbite the abſent, at the preſent barke,</l>
+               <l>
+                  <pb n="9" facs="tcp:170152:11"/>
+Their prayers are curſes, their relations lies,</l>
+               <l>Two birds that alwaies out of one neſt flies.</l>
+               <l>Yea Drunkards are ſo barbarous, and ſo fell,</l>
+               <l>With them no word that's civill, ſavours well.</l>
+               <l>They belch forth nothing but what beaſtly is,</l>
+               <l>No rotten ſpeech to Drunkards comes amiſſe.</l>
+               <l>They ſpeak no leſſe then murthers, blaſphemies,</l>
+               <l>Rapes, whoredoms, inceſts, and adulteries.</l>
+               <l>That which from their polluted mouths doth guſh,</l>
+               <l>A man would think ſhould make the Devill bluſh.</l>
+            </lg>
+            <lg>
+               <l>And thus from wicked talking they'r agreed,</l>
+               <l>To curſed impious ſwearing to proceed.</l>
+               <l>As you ſhall rarely any drunkard ſee,</l>
+               <l>But a great ſwearer he is known to be.</l>
+               <l>Oh, the prodigious fearfull oaths they ſweare,</l>
+               <l>As if that God were deafe, and could not heare.</l>
+               <l>The damned language which in drunken fit,</l>
+               <l>Theſe Ruffines, monſters of the earth do ſpit</l>
+               <l>Out in defiance of his Majeſty,</l>
+               <l>And all ſubordinate authority;</l>
+               <l>Would pierce and wound a heart of braſs, nay make</l>
+               <l>A dumb man ſpeak, a dead man almoſt quake.</l>
+               <l>Now when their mouths are ſomewhat ſtopt with pot,</l>
+               <l>And all that's ſaid or ſworne is quite forgot;</l>
+               <l>You ſhall have one for very pure love creep,</l>
+               <l>And wanting ſpeech, in's fellow's boſome weep.</l>
+               <l>Another takes a chamber pot, and piſſing,</l>
+               <l>Turns to's companions, and him fals a kiſſing.</l>
+               <l>A third, like one that halfe his wits doth lack,</l>
+               <l>With laughter ſets his mouth upon the rack<hi>:</hi>
+               </l>
+               <l>A fourth, he ramps and ſtamps, whisks down the cup,</l>
+               <l>Becauſe the wine's no ſooner brought him up.</l>
+               <l>A fifth ſits in a corner (him I paſſe)</l>
+               <l>Nodding and ſlavering like a drunken Aſſe.</l>
+               <l>
+                  <pb n="10" facs="tcp:170152:12"/>
+A ſixt he kneels ſcarſe able for to ſtand,</l>
+               <l>Yet makes a ſhift to hold the cup in's hand<hi>:</hi>
+               </l>
+               <l>After that, every one that is awake</l>
+               <l>Muſt ſing his ſong, his inſtrument muſt take.</l>
+            </lg>
+            <lg>
+               <l>Inſtead of Harp, then one a knife up takes,</l>
+               <l>And a quart pot, wherewith he Muſick makes.</l>
+               <l>Next, in a ſong extols his miſtreſſe fine;</l>
+               <l>Another ſings the goodneſſe of the Wine;</l>
+               <l>Another leſſe in meeter skill'd then proſe,</l>
+               <l>'Twixt wife and him, relates how all things goes;</l>
+               <l>Where for to heare how they do pawn their lives,</l>
+               <l>Plot and contrive to charm and tame their wives,</l>
+               <l>Would make an honeſt modeſt maid to tarry,</l>
+               <l>And take a reſolution not to marry.</l>
+               <l>Another he relates how many quarts</l>
+               <l>His friend and he drank lately next their hearts;</l>
+               <l>Another of Religion he doth prate,</l>
+               <l>(To little purpoſe) and affairs of ſtate;</l>
+               <l>Another claps his fellow on the back,</l>
+               <l>And ſweares that he's a dunce that drinks not ſack;</l>
+               <l>Another gets a candle, where with all,</l>
+               <l>He ſtrives to ſet his name upon the wall;</l>
+               <l>Another takes a cole, and ſpeechleſſe reeling,</l>
+               <l>Would gladly write his mind upon the ſeiling;</l>
+            </lg>
+            <lg>
+               <l>Next brags with ſuch a woman he hath been,</l>
+               <l>Whom in his life he yet had never ſeen;</l>
+               <l>Another, how demurely he did jet</l>
+               <l>By ſuch a round head which by chance he met;</l>
+            </lg>
+            <lg>
+               <l>Another ſwaps his cap upon the floore,</l>
+               <l>Quarrels with's friend, becauſe he'll drink no more;</l>
+               <l>Another ſwears, each one ere they do part,</l>
+               <l>Shall drink his pot, tell's tale, or let a fart;</l>
+               <l>Not to drink ſhare, or part before their time,</l>
+               <l>Is an unpardonable, and moſt hainous crime.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:170152:12"/>
+               <l>Their Lybrary's a large roome, ſo full as paſſes,</l>
+               <l>Of Pots, Canns, Jugs, Tobacco pipes and glaſſes.</l>
+               <l>Raſhers o'th' coales, Red Herrings, Caveare,</l>
+               <l>Gammons of Bacon, and the like good cheare,</l>
+               <l>To whet their appetites the better up,</l>
+               <l>And give a reliſh to another cup:</l>
+               <l>Together with a Baſon and a Jurdane,</l>
+               <l>To vomit in, and piſſe for every Lurdane,</l>
+            </lg>
+            <lg>
+               <l>Unto their knowledge now I might proceed,</l>
+               <l>Whereof to ſpeak I think I ſhall not need.</l>
+               <l>For though they think themſelves gyants for wit,</l>
+               <l>The Scripture tels us they are void of it.</l>
+               <l>And though they brag of judgement, you ſhall find</l>
+               <l>Them naught but leather caſes ſtuft with wind<hi>:</hi>
+               </l>
+               <l>Alas if any can but break a jeſt,</l>
+               <l>He thinks himſelfe much wiſer then the reſt.</l>
+               <l>Brib'd with a ſelfe conceit, themſelves they flatter,</l>
+               <l>When all's more ſound, then ſubſtance, winde then matter.</l>
+               <l>And were they not both void of wit &amp; grace,</l>
+               <l>They would be much aſham'd to ſhew their face.</l>
+               <l>They ſit to eate and drink, lye downe to ſleep,</l>
+               <l>Riſe up to play; this exerciſe they keep.</l>
+               <l>In the warme Sun like gnats they play and ſing,</l>
+               <l>And when they've done, they ſit them down &amp; ſting.</l>
+            </lg>
+            <lg>
+               <l>Drunkards for nothing that is good are fit,</l>
+               <l>In all the world of earth, the barren'ſt bit.</l>
+               <l>Like to a dumb <hi>Jack</hi> in a Virginall,</l>
+               <l>They have no voice in Commonwealth at all.</l>
+               <l>They've no more uſe of them throughout the land,</l>
+               <l>Then <hi>Ieroboam</hi> had of his withered hand.</l>
+               <l>The Serpent's ſpeciall venome, makes theſe elves</l>
+               <l>Not only work confuſion to themſelves;</l>
+               <l>But makes them wit and grace for to reject,</l>
+               <l>And take delight others for to infect.</l>
+               <l>
+                  <pb n="12" facs="tcp:170152:13"/>
+Which for to compaſſe they great toile will take,</l>
+               <l>Alehouſe and Taverne they their ſtudy make.</l>
+               <l>Where all their practice is before they part,</l>
+               <l>To drinke the feare of God out of their heart;</l>
+               <l>Health out o'th' body, wit out of the head,</l>
+               <l>Strength out o'th' joints, and every one to bed.</l>
+               <l>All moneys out a purſe; drink out o'th' barrels,</l>
+               <l>Wife, children, out of doors, all into quarrels.</l>
+               <l>The Devill out on's den, land out of quiet,</l>
+               <l>Store out o'th' Kingdome, and this is their dyet.</l>
+               <l>Let but an honeſt, civill, ſober man</l>
+               <l>Fall once amongſt them, it's their glory than</l>
+               <l>To make him drunk: You could not but admire,</l>
+               <l>How theſe infernall ſwil-bowles will conſpire:</l>
+               <l>Like Babyloniſh Harlot ſmooth him up,</l>
+               <l>Make him taſte poiſon in a golden cup:</l>
+               <l>And as at the diviſion of a ſpoile,</l>
+               <l>They'll ſing when they have put him to the foile.</l>
+               <l>Oh, how they will both glory brag and vapour,</l>
+               <l>That they have had the ſnuffing of that tapor.</l>
+            </lg>
+            <lg>
+               <l>Oh, how they'll wind men in, do what they can,</l>
+               <l>By drinking healths, firſt unto ſuch a man,</l>
+               <l>Then unto ſuch a woman. Then they'll ſend</l>
+               <l>An health to each man's Miſtriſſe or his friend;</l>
+               <l>Then to their kindreds or their parents deare,</l>
+               <l>They needs muſt have the other jug of beere.</l>
+               <l>Then to their Captains and Commanders ſtout,</l>
+               <l>Who for to pledge they think none ſhould ſtand out.</l>
+            </lg>
+            <lg>
+               <l>Laſt to the King and Queen they'll have a cruſe,</l>
+               <l>Whom for to pledge they think none dare refuſe;</l>
+               <l>Though he be both unwilling and unable,</l>
+               <l>And be therewith made drunk, caſt under th' table.</l>
+               <l>And thus theſe tempters wind and draw men in,</l>
+               <l>To be partakers of their deadly ſinne.</l>
+               <l>
+                  <pb n="13" facs="tcp:170152:13"/>
+Whom they areſt they ſuffer none to baile,</l>
+               <l>'Till all their ſenſes, all their members faile;</l>
+               <l>The moſt corrupted heart can hardly think,</l>
+               <l>How they'll triumph o'r others in their drink.</l>
+            </lg>
+            <lg>
+               <l>So faſt as in a chaine the Devill binds them,</l>
+               <l>Inthrals, beſots, bewitches, and ſo blinds them;</l>
+               <l>That they to make each other drunk do ſtrive,</l>
+               <l>And think themſelves the braveſt men alive:</l>
+               <l>It they can prove but Maſters of their trades,</l>
+               <l>And be but call'd and counted gallant blades<hi>:</hi>
+               </l>
+               <l>For popular applauſe in this their ſtrife,</l>
+               <l>And reputation, is more ſweet then life;</l>
+               <l>Nay, then ſalvation too: for they had rather</l>
+               <l>Ride poſt to hell unto their lully father;</l>
+               <l>Then of a Puritan to have the name,</l>
+               <l>So proud they are of baſeneſſe and of ſhame.</l>
+               <l>Little regarding, whilſt thus o'r their friends</l>
+               <l>They doe triumph, Satan obtains his ends;</l>
+               <l>Nor minding how they'r overthrown at laſt,</l>
+               <l>Brought under's laſh, and into darkneſſe caſt.</l>
+            </lg>
+            <lg>
+               <l>And thus they ſtrive in ſinne for to excell,</l>
+               <l>Not having love of heaven, dread of hell:</l>
+               <l>Spending their time in jollity and laughter,</l>
+               <l>Not caring what fals here, nor comes hereafter;</l>
+               <l>Making a trade of ſinne, without regard</l>
+               <l>Of hell to puniſh, heaven to reward.</l>
+               <l>They'r never known God's mercy for to crave,</l>
+               <l>But live as if they had no ſouls to ſave.</l>
+            </lg>
+            <lg>
+               <l>And thus I have made out, as I do think,</l>
+               <l>That drunkards not for ſtrength, but luſt, do drink.</l>
+               <l>And that their chiefe delight is to entice</l>
+               <l>Others to be copartners in their vice.</l>
+               <l>
+                  <pb n="14" facs="tcp:170152:14"/>
+Making them drink theſe healths, till like a dog</l>
+               <l>They vomit up their ſhame, or like a hog</l>
+               <l>Tumble i'th' durt, a ſpectacle moſt ſad</l>
+               <l>And woefull to all men that are not mad.</l>
+               <l>For, what more barbarous practice can there be,</l>
+               <l>Then for to take a pleaſure for to ſee</l>
+               <l>Others made drunk? as if it were their pride,</l>
+               <l>The high and mighty God for to deride.</l>
+               <l>In tempting unto ſin they are ſo bold,</l>
+               <l>Can fit and temper ſo unto their mould:</l>
+               <l>Such ſtratagems they have to win the field,</l>
+               <l>Plots, projects ſuch, as hell can ſcarcely yield.</l>
+               <l>Their proffers are like to a fowler's ſcrap,</l>
+               <l>Caſt out not for to feed, but to entrap.</l>
+               <l>So that if Satan would reſigne his place,</l>
+               <l>'T ſhould be to ſome of this ſame curſed race.</l>
+               <l>Now if by faire meanes they cannot allure</l>
+               <l>Men to their wicked cuſtoms; then be ſure</l>
+               <l>To give weak brains a drench, themſelves they'll band,</l>
+               <l>And ſtrive for to compell by ſtrength of hand.</l>
+               <l>At leaſt if in their practiſe they do faile,</l>
+               <l>They'll cenſure, ſcoffe, revile, and at them raile.</l>
+               <l>Curſe, envy, nickname, flander, undermine,</l>
+               <l>And falſely to accuſe they will combine:</l>
+               <l>Nay if that over-ruling providence</l>
+               <l>And Juſtice, were not a ſtrong tower of fence,</l>
+               <l>If not their ſouls, their bodies they would kill,</l>
+               <l>In caſe they would not work them to their will.</l>
+               <l>But now I'll paſſe, and briefly let you ſee</l>
+               <l>Their outward bodily deformity.</l>
+               <l>Swollen and inflamed faces drunkards have,</l>
+               <l>Beſet with goodly chowles, and rubies brave;</l>
+               <l>Red bleared gogle eies, running with rheums,</l>
+               <l>Mouths naſty, foaming with offenſive fumes.</l>
+               <l>
+                  <pb n="15" facs="tcp:170152:14"/>
+Rich Roman bottle noſes, palſied hand,</l>
+               <l>Great gouty legs, whereon they ſcarce can ſtand.</l>
+               <l>Foule ſtinking rotten teeth, and beſide theſe,</l>
+               <l>All cheeks to th' belly, belly to the knees.</l>
+            </lg>
+            <lg>
+               <l>Nay queſtionleſſe if any drunken aſſe</l>
+               <l>Would but behold his feature in this glaſſe,</l>
+               <l>A man would think his face he ſhould diſdaine,</l>
+               <l>And ne'r be brought to love himſelfe againe.</l>
+            </lg>
+            <lg>
+               <l>And they'r no more deformed then diſeaſed,</l>
+               <l>If to beleeve an Artiſt you'll be pleaſed.</l>
+               <l>For ſaith <hi>Hippocrates,</hi> the more they are fill'd,</l>
+               <l>Diſtempered bodies, the more they are ſpill'd.</l>
+            </lg>
+            <lg>
+               <l>And if from him you further do appeale,</l>
+               <l>The Prophet <hi>Hoſea</hi> ſets to it his ſeale.</l>
+               <l>Wine and ſtrong drink drown many<hi>:</hi> In a word,</l>
+               <l>More dy by ſurfets, then dye by the ſword.</l>
+               <l>So that the Drunkard out of that drawes death,</l>
+               <l>Which doth preſerve to other men their breath.</l>
+               <l>Hee a Cow's belly hath; head of an aſſe,</l>
+               <l>Diſeaſes of a horſe: So let him paſſe.</l>
+            </lg>
+            <lg>
+               <l>But ſtay awhile, you have not yet heard all;</l>
+               <l>To drunkards many fearfull chances fall.</l>
+               <l>
+                  <hi>Anacreon,</hi> in drinking that ſurpaſt,</l>
+               <l>With the husk of a grape was choakt at laſt.</l>
+               <l>
+                  <hi>Ammon</hi> was warme with Wine, and highly fill'd,</l>
+               <l>When he by's brother <hi>Abſolon</hi> was kill'd.</l>
+               <l>
+                  <hi>Symon</hi> th' High Prieſt, and his two ſons, were ſlaine</l>
+               <l>By their own brother in a drunken veine.</l>
+               <l>Great <hi>Olofernes</hi> when he loſt his head</l>
+               <l>By <hi>Iudeth</hi>'s hand, lay drunk upon his bed.</l>
+               <l>The drunkenneſſe of <hi>Noah,</hi> and of <hi>Lot,</hi>
+               </l>
+               <l>Thoſe righteous perſons, muſt not be forgot:</l>
+               <l>
+                  <pb n="16" facs="tcp:170152:15"/>
+That by thoſe inſtances of former time,</l>
+               <l>Wee may obſerve how God abhors the crime.</l>
+               <l>All ages have recorded ſtories ſad,</l>
+               <l>I need no more examples for to add.</l>
+               <l>Moreover, in the nights miſſing their ground,</l>
+               <l>In pits &amp; ditches many have been drownd.</l>
+               <l>Snakes have been known down drunkards throats to creep,</l>
+               <l>When in the fields they have been laid aſleep.</l>
+               <l>In their cups many of theſe drunken elves,</l>
+               <l>Either ſtab others, or are ſtab'd themſelves.</l>
+            </lg>
+            <lg>
+               <l>For who will ſooner either kill or ſlay,</l>
+               <l>Then Cowards when th' have drunk their wits away.</l>
+               <l>The Devill puts it into Drunkards heart,</l>
+               <l>To kiſſe at meeting, quarrell ere they part.</l>
+               <l>Their malice ſo in Tavernes oft they vent,</l>
+               <l>They are conſtrain'd at Tyburne to repent.</l>
+            </lg>
+            <lg>
+               <l>A Drunkard will with his own ſhadow play,</l>
+               <l>And afterward with it will make a fray.</l>
+               <l>Yea as he fits and nods, do but ſuppoſe</l>
+               <l>He ſhould againſt ſome poſt but hit his noſe,</l>
+               <l>He is in his ſtupidity ſo ſtrong,</l>
+               <l>He'll ſtrike his oppoſite for that ſame wrong.</l>
+               <l>Then for to make them friends, for drink he'll call,</l>
+               <l>Which friendly cup begets another brawle.</l>
+               <l>For whilſt the hogſhead tampers with the barrell,</l>
+               <l>Whether he chaſes or laughs he's apt to quarrell.</l>
+               <l>And let a man admoniſh him, inſooth</l>
+               <l>He had as good take a wild beare by th' tooth.</l>
+               <l>This ſinne ſcornes all reproofe; all counſel's bad,</l>
+               <l>As goads to them that are already mad<hi>:</hi>
+               </l>
+               <l>It may them move to choler and to ſtrife,</l>
+               <l>But never to amendment of their life.</l>
+               <l>Now as the Drunkard through exceſſe and ſtrife</l>
+               <l>Impairs his health, and ſhortneth his life;</l>
+               <l>
+                  <pb n="17" facs="tcp:170152:15"/>
+Deforms his body; ſo it is his fate,</l>
+               <l>At laſt for to conſume his whole eſtate.</l>
+               <l>I might here ſhow how wine it doth deface,</l>
+               <l>Darken the light of nature, and of grace;</l>
+               <l>But that I think it labour were in vain,</l>
+               <l>And to repeat the ſame things o'r againe.</l>
+               <l>It is the funerall (as I ſaid before)</l>
+               <l>Of all good parts; I need to ſay no more.</l>
+               <l>Now you may marvell much thus for to heare</l>
+               <l>The Drunkards odious poſtures made appeare.</l>
+               <l>But you might wonder more, in caſe I ſhould</l>
+               <l>Prolixly here relate, what might be told.</l>
+               <l>For ſeriouſly he's like a putrid grave,</l>
+               <l>The deeper that you dig, more ſtench you have:</l>
+               <l>I could you further carry, and ſtill find</l>
+               <l>More left of him before, then's left behind.</l>
+               <l>This ſhall ſuffice, leſt that the more that's ſaid,</l>
+               <l>Do cauſe a great deale leſſe for to be read.</l>
+            </lg>
+            <lg>
+               <l>And now that Drunkards thus have ſeen their ſin</l>
+               <l>Laid open to their view, let them begin</l>
+               <l>Their lives for to amend, and to repent,</l>
+               <l>Or hearken to their grievous puniſhment.</l>
+               <l>For by the Lawes of God, and eke of man,</l>
+               <l>After conviction, there is none that can</l>
+               <l>Avoid the ſentence<hi>:</hi> After ſentence paſt,</l>
+               <l>Then execution comes; for ſure at laſt,</l>
+               <l>If a reprieve, or pardon be not got,</l>
+               <l>Damning or hanging, is drinks after-ſhot.</l>
+            </lg>
+            <lg>
+               <l>If therefore there be any unto God</l>
+               <l>Of thoſe Antipodes, that ſcorn his rod;</l>
+               <l>That in theſe lines, as through proſpective true,</l>
+               <l>Of his condition taken hath a view;</l>
+               <l>
+                  <pb n="18" facs="tcp:170152:16"/>
+Yet neither ſting nor prick of conſcience feels,</l>
+               <l>But fixt on earth, caſts heaven at his heels.</l>
+               <l>Or that hath ſeen in this ſame glaſſe moſt cleare,</l>
+               <l>The ugly face of his foule heart appeare:</l>
+               <l>And likewiſe read, how Satan doth delude him,</l>
+               <l>And from Gods preſence ſeeks for to exclude him.</l>
+               <l>Yet notwithſtanding, ſtill himſelfe doth give,</l>
+               <l>In brutiſh ſenſuality to live;</l>
+               <l>And ſets at light all counſels, threats and terrors,</l>
+               <l>And doth reſolve not to repent his errours.</l>
+               <l>But ſtubbornly himſelfe therein to cheriſh;</l>
+               <l>Let him know this that he ſhall ſurely periſh.</l>
+            </lg>
+            <lg>
+               <l>Thus ſaith the Lord, your ſelves you have abuſed,</l>
+               <l>For I have called, and you have refuſed;</l>
+               <l>You ſimple things have in your hearts deviſed,</l>
+               <l>All my counſels, all my threats deſpiſed.</l>
+               <l>I ſtretcht my hand, and you would not regard,</l>
+               <l>Therefore deſtruction ſhall be your reward.</l>
+               <l>And let them know how many ſeverall woes</l>
+               <l>The word of God pronounceth againſt thoſe,</l>
+               <l>That at the wine themſelves together link,</l>
+               <l>And mighty are to poure downe ſtrong drink.</l>
+            </lg>
+            <lg>
+               <l>And let them know, the time will ſurely come,</l>
+               <l>Chriſt ſhall pronounce this fearfull dreadful doom;</l>
+               <l>Int' everlaſting fire depart from me,</l>
+               <l>Ye curſed workers of iniquity.</l>
+               <l>Here without thirſt they drink; there let them think,</l>
+               <l>How they ſhall thirſt, and never have no drinke<hi>:</hi>
+               </l>
+               <l>Yea though the fire be hot, the thirſt be great,</l>
+               <l>A drop of water, little to the heat.</l>
+               <l>Know that the fire and thirſt they ſhall abide,</l>
+               <l>And the leaſt drop of water be deni'd.</l>
+               <l>L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t drunkards know, and knowing eke confeſſe,</l>
+               <l>
+                  <hi>Paul</hi>'s a true Prophet, <hi>Eſay</hi> is no leſſe.</l>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:170152:16" rendition="simple:additions"/>
+               <pb facs="tcp:170152:17"/>
+               <l>
+                  <pb n="21" facs="tcp:170152:17"/>
+Yea it's an ods, that they can never part,</l>
+               <l>But entertain uncleanneſſe in the heart.</l>
+               <l>No man can ſort with Heathens, Pagans, Turks,</l>
+               <l>But he ſhall frame and learn to do their works.</l>
+               <l>Conſider well <hi>Peter</hi> his change and fall,</l>
+               <l>After he came into the high Prieſt's hall.</l>
+               <l>Nay, you ſhall ſeldome ſee a fellon die,</l>
+               <l>Or an offender, but this is his cry:</l>
+               <l>If I had chanc'd ill company to miſſe,</l>
+               <l>(Ah) I am ſure, I'd never come to this.</l>
+            </lg>
+            <lg>
+               <l>Wherefore as <hi>Ioſeph</hi> hearing's miſtreſſe ſay,</l>
+               <l>Come let us lye together, fled away<hi>:</hi>
+               </l>
+               <l>Even ſo take care, that thou away do ſhrink,</l>
+               <l>When Drunkards cry, come let us goe and drink.</l>
+               <l>Beware leſt they betray thee with their kiſſes;</l>
+               <l>When they ſpeak faire, beleeve the ſerpent hiſſes.</l>
+            </lg>
+            <lg>
+               <l>Likewiſe be carefull not for to reſort,</l>
+               <l>To drinking places, for to play or ſport.</l>
+               <l>My tongue would bliſter, if I ſhould ſay leſſe,</l>
+               <l>They'r nurſeries of riot, and exceſſe.</l>
+            </lg>
+            <lg>
+               <l>I wiſh I might not ſay, that many are</l>
+               <l>The Devil's ſhops for venting of his ware;</l>
+               <l>The very ſinks of ſinne, and common ſhoares</l>
+               <l>For drunkards, ſwearers, murtherers and whores;</l>
+               <l>Yea Satan's Throne, where he doth Chaire-man ſit,</l>
+               <l>Sequeſtring each man both from grace and wit.</l>
+               <l>Their lands, their goods, their cattle and their ſtocks,</l>
+               <l>And for their fifts, doth order them the pox.</l>
+            </lg>
+            <lg>
+               <l>But what of theſe, I ſay I muſt take heed,</l>
+               <l>Leſt I as <hi>Paul</hi> at <hi>Epheſus</hi> doe ſpeed;</l>
+               <l>And by ſome one <hi>Demetrius,</hi> be cry'd down</l>
+               <l>With grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Diana,</hi> throughout all the Towne.</l>
+               <l>
+                  <pb n="22" facs="tcp:170152:18"/>
+Sirs, by this craft you know we get our wealth;</l>
+               <l>Though others (as Delinquents) loſe their health.</l>
+            </lg>
+            <lg>
+               <l>But thus much I conceive here by the way,</l>
+               <l>As not incongruous, obſerve we may:</l>
+               <l>That in regard th' exceſſe o'th' trencher's not</l>
+               <l>So ſoon perceiv'd as is th' exceſſe o'th' pot.</l>
+               <l>And th' outward viſible effects with us,</l>
+               <l>Are not ſo ſtupid, or notorious:</l>
+               <l>Drunk'neſſe is more ridiculous then it,</l>
+               <l>And more declaim'd againſt in holy Writ<hi>:</hi>
+               </l>
+               <l>So that (by uſe) the word Sobriety,</l>
+               <l>Doth temp'rance now in drinking ſignify.</l>
+               <l>Therefore the Glutton's ſin is now in leſſe</l>
+               <l>Diſreputation, then is Drunkenneſſe;</l>
+               <l>Yet as to each th' affection ſtands; in all</l>
+               <l>Th' intemperance alike is criminall.</l>
+            </lg>
+            <lg>
+               <l>Yet one word more I will preſume to add,</l>
+               <l>Which (if it take effect) my heart will glad.</l>
+            </lg>
+            <lg>
+               <l>To you Church-Wardens, Conſtables and others,</l>
+               <l>That love the Lord, the Church, the State, your bro<g ref="char:EOLhyphen"/>thers,</l>
+               <l>Your ſelves, your ſons, the people of the land,</l>
+               <l>Put forth againſt this ſin your helping hand.</l>
+               <l>Help, help the Lord, the lawes, ſome ground to win,</l>
+               <l>Againſt I ſay, againſt this mighty ſinne.</l>
+            </lg>
+            <lg>
+               <l>Uſe all meanes poſſible for to prevent it,</l>
+               <l>And if you cannot, faile not to preſent it.</l>
+               <l>Say not that he which herein doth offend,</l>
+               <l>Is ſuch a Gentleman, or ſuch a friend:</l>
+               <l>But know that he who is offended's dearer,</l>
+               <l>Greater and better, and unto you nearer.</l>
+               <l>
+                  <pb n="23" facs="tcp:170152:18"/>
+Or if you needs the Gentleman will free,</l>
+               <l>Take care, the Drunkard <hi>(He)</hi> preſented be.</l>
+               <l>Or if you pleaſe for to let ſlip your friend,</l>
+               <l>Be ſure the Drunkard to the ſtocks you ſend.</l>
+            </lg>
+            <lg>
+               <l>But moſt of all they are to be deſired,</l>
+               <l>And in the name of God ſtrictly required;</l>
+               <l>Within Commiſſion of the Peace that be,</l>
+               <l>That they their Countries peace preſerved ſee;</l>
+               <l>And all their wil, skill, ſtrength and power bend,</l>
+               <l>This many headed monſter for to rend.</l>
+               <l>Draw theſe looſe teeth (that it may gather health)</l>
+               <l>Out of the mandable of the Commonwealth.</l>
+               <l>You may, if you theſe To res but disband,</l>
+               <l>Of infinite diſtempers cure the land.</l>
+            </lg>
+            <lg>
+               <l>Make known your love to God, hatred to ſinne,</l>
+               <l>The zeale and courage that you have within.</l>
+               <l>Balke none, forbeare with none that do offend,</l>
+               <l>Untill their ſinfull lives they do amend.</l>
+            </lg>
+            <lg>
+               <l>Now you have heard the thing that I do aske,</l>
+               <l>Ariſe up then, be doing of your taske;</l>
+               <l>Which if you do, to pray I will not ceaſe,</l>
+               <l>That you in grace and wiſdome may increaſe:</l>
+               <l>And know that this to do, if you neglect,</l>
+               <l>Even he that hath of perſons no reſpect,</l>
+               <l>Will ſurely in his fury and his rage</l>
+               <l>Your negligence reward with <hi>Ahab</hi>'s wage.</l>
+            </lg>
+            <lg>
+               <l>I wiſh that all men would beware in time,</l>
+               <l>Of this ſo odious deteſtable crime;</l>
+               <l>Or it will prove at length, they may be ſure,</l>
+               <l>Like to a deſperate plague that knowes no cure.</l>
+               <l>
+                  <pb n="24" facs="tcp:170152:19"/>
+And yet let Drunkards know ſins are remitted</l>
+               <l>Upon repentance, as if not committed.</l>
+               <l>
+                  <hi>Peter,</hi> his Maſter Chriſt did thrice deny;</l>
+               <l>
+                  <hi>Paul</hi> perſecuted him exceedingly</l>
+               <l>(As thou doſt in his members) yet they twaine</l>
+               <l>Upon repentance mercy did obtaine.</l>
+               <l>
+                  <hi>Manaſſes, Mary Magdalen,</hi> the thiefe</l>
+               <l>Witneſſe, true ſorrow never wants reliefe.</l>
+               <l>Repent, and do not from his precepts range,</l>
+               <l>And God he will his dreadfull ſentence change.</l>
+               <l>It is a truth to be beleev'd and read,</l>
+               <l>The womans ſeed ſhall bruiſe the ſerpent's head.</l>
+            </lg>
+            <lg>
+               <l>And thou O Father, that alone canſt give</l>
+               <l>Life to the dead, unto their ſouls ſay, Live.</l>
+               <l>To thee nothing is hard; thou canſt of ſtones</l>
+               <l>Make, and raiſe children to thy holy ones.</l>
+               <l>Send down thy heavenly ſpirit, and thereby</l>
+               <l>Thoſe dead and ſtony hearts ſo mollify,</l>
+               <l>That they henceforth all deadly ſinne may ſhun,</l>
+               <l>And be made members of thine onely Son.</l>
+            </lg>
+            <lg>
+               <l>And now who e'r thou art; this book is thine,</l>
+               <l>If uſe it, if abuſe it, it is mine.</l>
+               <l>Do not thou with the name a quarrell pick,</l>
+               <l>If that the nature thou doe not diſlike.</l>
+               <l>Books are (as children) oft not fitly nam'd,</l>
+               <l>For which their God fathers are to be blam'd.</l>
+               <l>And though the mold it's caſt in may be new,</l>
+               <l>It brings thee nothing but whats old and true.</l>
+            </lg>
+            <lg>
+               <l>I am not mad, to think this book ſhould paſſe</l>
+               <l>Without aſperſion from ſome drunken aſſe<hi>:</hi>
+               </l>
+               <l>Some will (no doubt) as Lyons hunger-bit,</l>
+               <l>Open their mouths againſt both me and it.</l>
+               <l>
+                  <pb n="25" facs="tcp:170152:19"/>
+But read, conſider well, and thou ſhalt finde</l>
+               <l>An Antidote for body and for minde:</l>
+            </lg>
+            <lg>
+               <l>And if thy ſhared ſoule do chance</l>
+               <l>To be invited unto temperance;</l>
+               <l>Let not the jeeres or taunts, or ſcoffs of men,</l>
+               <l>Cauſe thee returne to thy ill courſe againe:</l>
+               <l>Know that the Devil's Maſtives, they will fawne</l>
+               <l>No longer then they have thy ſoule at pawn:</l>
+               <l>But if thou chance out of their fold to ſcape,</l>
+               <l>Then they'll begin to bite, to bark and gape.</l>
+            </lg>
+            <lg>
+               <l>The poore diſeaſed creeple, it appears,</l>
+               <l>Lay at the pool full eight and thirty yeares;</l>
+               <l>And not a man that paſt in all that time,</l>
+               <l>Check'd or rebuk'd him for the ſmalleſt crime.</l>
+               <l>But when he was in body and in ſoule,</l>
+               <l>By Chriſt our Saviour cleanſed and made whole;</l>
+               <l>And went reſolved for to ſinne no more,</l>
+               <l>Leſt worſe befell him, then had done before;</l>
+               <l>It is not lawfull, then the Jewes could ſay,</l>
+               <l>Thy bed to carry on the ſabbath day.</l>
+            </lg>
+            <lg>
+               <l>Likewiſe we read the Phariſees did ſcorne</l>
+               <l>The poore diſtreſſed man that blind was borne<hi>:</hi>
+               </l>
+               <l>No ſooner was he cur'd, but out they ſent,</l>
+               <l>And him and's parents both they did convent.</l>
+            </lg>
+            <lg>
+               <l>Whilſt <hi>Magdalen</hi> did in her lewdneſſe live,</l>
+               <l>Word of reproofe none unto her did give:</l>
+               <l>But when with tears Chriſt's feet ſhe waſht, &amp; came</l>
+               <l>With pretious ointment to anoint the ſame;</l>
+               <l>Then for to murmure ſhe a <hi>Simon</hi> kenn'd,</l>
+               <l>And eke a <hi>Iudas,</hi> her to reprehend:</l>
+               <l>Yea, it's the Devil's drift, and of his flock,</l>
+               <l>To daſh our little ones againſt a rock:</l>
+               <l>
+                  <pb n="26" facs="tcp:170152:20"/>
+Vertue to blaſt i'th' budd, and to devoure</l>
+               <l>Before it grow either to fruit or flower.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Pharaoh</hi> plotted th' Hebrews for to ſpill,</l>
+               <l>When he gave order all their babes to kill.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Herod</hi> (when himſelfe he mocked knew)</l>
+               <l>Sent forth to <hi>Bethlehem,</hi> all their children ſlew.</l>
+            </lg>
+            <lg>
+               <l>Children of men, their tongues like arrowes are,</l>
+               <l>And with ſharp blades their teeth you may compare,</l>
+               <l>The Devils murthering pieces for to ſpoile,</l>
+               <l>And perſecute thoſe that from him recoile.</l>
+            </lg>
+            <lg>
+               <l>But they that do their journey leave for ſuch,</l>
+               <l>Affrighted horſes do reſemble much;</l>
+               <l>Which ſtart at ſhadowes, trembling for feare,</l>
+               <l>When that there is no juſt occaſion neare.</l>
+            </lg>
+            <lg>
+               <l>It's not for us, for to regard detractions,</l>
+               <l>Malice of men, againſt our ſelves or actions;</l>
+               <l>And ſo like Moon calfes at a ſhadow ſtart,</l>
+               <l>Setting the ſervice of our God apart.</l>
+               <l>When as we do into God's ſervice enter,</l>
+               <l>Upon a rough profeſſion we adventure:</l>
+               <l>We are engag'd the world to ſet at light,</l>
+               <l>And all its pleaſures to abandon quite.</l>
+               <l>The friendſhip of this world is meerely gall,</l>
+               <l>And enmity with God, ſo ſaith St <hi>Paul.</hi>
+               </l>
+               <l>Therefore we nothing can expect but blame,</l>
+               <l>At thoſe mens hands, that friends are to the ſame.</l>
+               <l>It is obſerv'd that when a thiefe intends</l>
+               <l>To rob an houſe; to bring about his ends,</l>
+               <l>He firſt puts out the lights, that ſo he may</l>
+               <l>The more ſecurely ſeize upon the prey:</l>
+               <l>Even ſo the Devil's imps with one accord,</l>
+               <l>When as they ſee the ſpirit of the Lord,</l>
+               <l>
+                  <pb n="27" facs="tcp:170152:20"/>
+In thoſe that once were darkneſſe, do begin</l>
+               <l>To rouze themſelves, and to advance for ſin;</l>
+               <l>Seeking all good mens vertues to diſgrace,</l>
+               <l>By throwing mire and dirt into their face.</l>
+            </lg>
+            <lg>
+               <l>What can be lookt for? or what can we find,</l>
+               <l>But cankred hatred, and depraved mind</l>
+               <l>In impious lapſed perſons, that do turne</l>
+               <l>Their ſpite againſt almighty God, and ſpurne</l>
+               <l>Againſt his image? For it is moſt ſure,</l>
+               <l>Thoſe that doe turne to God, they muſt endure,</l>
+               <l>To come much like a grape into the preſſe,</l>
+               <l>Be ſquees'd, and cruſht, they can expect no leſſe.</l>
+               <l>They muſt not think to come out of the Whale,</l>
+               <l>And ſit with <hi>Ionah</hi> in the ſhade; but ſhall</l>
+               <l>Have ſome foul worm to gnaw the gourd aſunder,</l>
+               <l>It is a truth, needs not beget a wonder.</l>
+            </lg>
+            <lg>
+               <l>Wherefore, who ever entred have a courſe</l>
+               <l>Of vertuous life; let them reſiſt the force</l>
+               <l>Of all temptations; knowing certainly,</l>
+               <l>The Devill never can with ſuch agree,</l>
+               <l>But ſtill will plot and ſeek them to devoure,</l>
+               <l>Although he ſmil'd, whilſt they were in his power.</l>
+            </lg>
+            <lg>
+               <l>Whilſt in his pawes the Lyon hath his prey,</l>
+               <l>With it he will both dally, ſport and play;</l>
+               <l>But if it offer to eſcape his pawes,</l>
+               <l>Then in the fleſh forthwith he'll fix his clawes.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Laban</hi> began to be moſt cruell-hearted</l>
+               <l>'Gainſt <hi>Iacob,</hi> when from him he was departed<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pharaoh</hi> did fiercely th' Iſraelites purſue,</l>
+               <l>When they to <hi>Aegypt</hi> were to bid adieu;</l>
+               <l>Our enemy with malice moſt doth ſwell,</l>
+               <l>When us he ſeeth againſt him to rebell.</l>
+               <l>
+                  <pb n="28" facs="tcp:170152:21"/>
+He cares but little thoſe for to moleſt,</l>
+               <l>Of whom he finds himſelfe fully poffeſt.</l>
+               <l>Great <hi>Olofernes.</hi> ne'r did evill thing</l>
+               <l>To them that willing were to ſerve his King<hi>:</hi>
+               </l>
+               <l>Such as are void of vertue, are not barr'd</l>
+               <l>From egreſſe regreſſe through the Devil's guard.</l>
+            </lg>
+            <lg>
+               <l>But ſuch as treaſure grace, and do begin</l>
+               <l>For to decline the waits of death and ſin;</l>
+               <l>Such as againſt his fierce encounters ſence,</l>
+               <l>He doth aſſault with all his violence;</l>
+               <l>His battery he plants againſt that foe,</l>
+               <l>And all his engines him to overthrow.</l>
+               <l>Courage your ſelves, his bullets they may clatter;</l>
+               <l>But all his engines are too weak to batter.</l>
+               <l>The Lord he will a <hi>Moſes</hi> ſtill befriend,</l>
+               <l>And againſt <hi>Aaron, Miriam</hi> him defend.</l>
+               <l>Againſt a <hi>Iudas</hi> Chriſt he will engage,</l>
+               <l>And on him take <hi>Magdalen's</hi> patronage.</l>
+               <l>If men oppreſſe them, creatures without ſence,</l>
+               <l>Will witneſſe truth, and fight in their defence.</l>
+               <l>If the Iſraelites before a <hi>Pharaoh</hi> fly,</l>
+               <l>The ſea'le divide, and make a paſſage dry:</l>
+               <l>The Lyons hunger-bit, cruell and fell,</l>
+               <l>Meek lambs will prove unto a <hi>Daniel;</hi>
+               </l>
+               <l>And God will ſend an Angell for to ſhut</l>
+               <l>Their mouths, when he into their den is put.</l>
+               <l>Ravens will feed <hi>Elijah:</hi> God will bleſſe</l>
+               <l>The widowes meale and oile from being leſſe;</l>
+               <l>Him and her ſelfe, and ſon for to maintain,</l>
+               <l>Untill the Lord be pleas'd to ſend down raine.</l>
+            </lg>
+            <lg>
+               <l>Although the King command to bind and throw</l>
+               <l>A <hi>Shadrach, Meſhech</hi> and <hi>Abednego</hi>
+               </l>
+               <l>Into the fiery furnace, yet they ſhall</l>
+               <l>In preſence of the King and Nobles all,</l>
+               <l>
+                  <pb n="29" facs="tcp:170152:21"/>
+Walke in the flame, and them it ſhall not touch,</l>
+               <l>The Angell of the Lord preſerveth ſuch.</l>
+            </lg>
+            <lg>
+               <l>Be valiant then, in righteouſneſſe begun,</l>
+               <l>And thou ſhalt ſhine in brightneſſe like the Sun.</l>
+               <l>So unto thee this book thus rudely penn'd,</l>
+               <l>And it and thee to God I do commend.</l>
+            </lg>
+            <closer>
+               <signed>Deus tibi ſe: Tu te Deo. J. Rigbye.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="encomium">
+            <pb facs="tcp:170152:22"/>
+            <head>To my much eſteemed Friend and Pariſhioner, Ma<g ref="char:EOLhyphen"/>jor <hi>Ioſeph Rigbye,</hi> upon his ſober Satyre againſt the Epidemicall vice of Drunkenneſſe.</head>
+            <lg>
+               <l>SOme old Philoſophers did ſay</l>
+               <l>One Soule inſpires each lump of Clay;</l>
+               <l>Yours and grave <hi>Withers</hi>'s parallell veine,</l>
+               <l>Their dead conceipt revives againe.</l>
+               <l>Great Brittain's loſt remembrancer</l>
+               <l>May find his voice new ecchoing here?</l>
+               <l>His verſe the plague's pale viſage drawes,</l>
+               <l>And yours ſoule drunkenneſſe the cauſe:</l>
+               <l>And truth to ſay, 'tis hard to gueſſe</l>
+               <l>Which plague's the greater, which the leſſe;</l>
+               <l>Which of the two's contagious breath,</l>
+               <l>Has more betrai'd to griſly death.</l>
+               <l>Then ſeeing two Chriſtian ſons of warre,</l>
+               <l>Are met in one from diſtance farre;</l>
+               <l>Caſhier'd the ſword, embrac'd the pen,</l>
+               <l>In pity to the ſouls of men;</l>
+               <l>To free by pious exhortation,</l>
+               <l>The ſin-ſick Captives of this Nation</l>
+               <l>
+                  <pb facs="tcp:170152:22"/>
+From Hell's devouring jawes, or make</l>
+               <l>Pure ſoules their company forſake.</l>
+            </lg>
+            <lg>
+               <l>Let but our vice-Antagoniſt,</l>
+               <l>Enter with fortunate arms the liſt</l>
+               <l>'Gainſt this foule monſter's firſt borne ſon,</l>
+               <l>Mad ſwearing: (Who it firſt begun)</l>
+               <l>Was Tavern-Bedlam, Lord or Knight,</l>
+               <l>In drunken mood and beaſtly plight;</l>
+               <l>And his vile flatterer man or ſwain,</l>
+               <l>To pleaſe him ſwore and curſt amaine:</l>
+               <l>Thus worſhipping the calfe of gold,</l>
+               <l>T' affront th' high'ſt rude men are bold.</l>
+               <l>Let but our Chriſtian Champion ſlay</l>
+               <l>This proud <hi>Orgoglio;</hi> then we'll ſay,</l>
+               <l>Let the great <hi>Alexander</hi> ceaſe</l>
+               <l>T' extoll his conqueſts, leſſe then theſe:</l>
+               <l>Let <hi>Caeſar's</hi> proud triumphant Bayes</l>
+               <l>Bow down, while we your trophies raiſe<hi>:</hi>
+               </l>
+               <l>Let <hi>Hercules</hi> labors ſilent be,</l>
+               <l>Yours live to immortality.</l>
+            </lg>
+            <closer>
+               <signed>Ch. Hotham.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170152:23"/>
+            <head>To my much Honoured Friend Major <hi>Ioſeph Rigbye,</hi> Upon his Drunkard's Proſpe<g ref="char:EOLhyphen"/>ctive or Burning-Glaſſe.</head>
+            <lg>
+               <l>MEthinks in this proſpective I doken</l>
+               <l>A troop of Monſters, not of Chriſtian men.</l>
+               <l>Monſters, ſuch as all <hi>Africk</hi> never bred,</l>
+               <l>Men and yet beaſts, living and yet ſtark dead.</l>
+               <l>Waſt thou <hi>Apelles</hi> ſcholar, or e'r ſaw</l>
+               <l>The Prince of Painters his quaint pieces draw;</l>
+               <l>That thus the Drunkard's ſhape unto our eye,</l>
+               <l>In lively pourtraicture thou doſt deſcry?</l>
+            </lg>
+            <lg>
+               <l>Was thou e'r at <hi>Lacedemonian</hi> Feaſts,</l>
+               <l>Where ſlaves us'd to be made as drunk as beaſts,</l>
+               <l>On purpoſe that their children they might fright</l>
+               <l>With th' odious view of ſuch an ugly ſight?</l>
+               <l>Or didſt thou live when as the Roman State,</l>
+               <l>Their Bacchanalia us'd to celebrate?</l>
+               <l>Or where e'r ſawſt thou drunkards feature, that</l>
+               <l>Thine active pencill it ſhould hit ſo pat?</l>
+            </lg>
+            <lg>
+               <l>It is a paradox that dead men, Thou</l>
+               <l>Shouldſt ſet out to the life thus; I avow:</l>
+               <l>And it is rare how the ſame draught ſhould be</l>
+               <l>A night and day-piece both, as this we ſee.</l>
+            </lg>
+            <lg>
+               <l>Did old <hi>Rome</hi> flouriſh, or the Spartan glory,</l>
+               <l>Thy name ſhould be eterniz'd in their ſtory,</l>
+               <l>
+                  <pb facs="tcp:170152:23"/>
+For thus chaſtifing with thy nipping pen,</l>
+               <l>The ſhame of Nations, bane of mortall men?</l>
+            </lg>
+            <lg>
+               <l>Is't not moſt ſhamefull Chriſtians ſhould ſtrive,</l>
+               <l>
+                  <hi>Painim</hi> and Pagan Gods for to revive?</l>
+               <l>
+                  <hi>Bacchus</hi> an Idol old and exolete,</l>
+               <l>Is now become a Diety compleate.</l>
+            </lg>
+            <lg>
+               <l>See how he's worſhipt, ſee how his throng train,</l>
+               <l>Each where do cry him up, their God amaine.</l>
+               <l>Taverns his Temples, daily multipli'd,</l>
+               <l>While great <hi>Iehovah</hi>'s would be ſet aſide.</l>
+            </lg>
+            <lg>
+               <l>Tables, his Altars, Indian thus perfumes,</l>
+               <l>I meane Tobacco<hi>:</hi> While each one preſumes,</l>
+               <l>God's ſacred Incenſe to extinguiſh quite,</l>
+               <l>And make it yield to their Idolothyte.</l>
+               <l>And his Church-muſick, filthy blattering ſongs,</l>
+               <l>Still canted out by the unhallowed tongues</l>
+               <l>Of drunken rimers; men profane forlorne,</l>
+               <l>God's ſacred praiſe in Pſalms muſt be forborne.</l>
+            </lg>
+            <lg>
+               <l>His tallow tapers burn both night and day,</l>
+               <l>Gods muſt go out: And moſt men dare to ſay,</l>
+               <l>They are but dead and uſeleſſe ſtinking ſnuffe,</l>
+               <l>Preachers I meane: Is not here goodly ſtuffe?</l>
+            </lg>
+            <lg>
+               <l>Flat Atheiſme ſure doth farre excell</l>
+               <l>This Deity, call'd back from th' loweſt hell.</l>
+               <l>Well acted then friend the Lay-Preachers part,</l>
+               <l>To lance this peſt with lines ſo ſharp and tart.</l>
+               <l>
+                  <hi>Her<g ref="char:EOLhyphen"/>bert.</hi> This verſing may him catch that ſermons flies,</l>
+               <l>And turne delight into a ſacrifice.</l>
+            </lg>
+            <lg>
+               <l>And of all gifted brethren thou ſhalt have</l>
+               <l>By my conſent, the Laurell to thy grave.</l>
+               <l>Thus pithily Gods cauſe to plead and cleare</l>
+               <l>By exerciſe, out of the Preachers ſpheare.</l>
+               <l>When I behold a bezeling dead drunk crew</l>
+               <l>Of Miſcreants; methinks ther's in my view</l>
+               <l>
+                  <pb facs="tcp:170152:24"/>
+The livelieſt emblem of the loweſt pit,</l>
+               <l>That can be ſeen except one goe to it.</l>
+               <l>God's wrath is ſtil'd wine of aſtoniſhment,</l>
+               <l>Which on condemned ſouls hath its full vent.</l>
+               <l>The Drunkards wine when it doth ſo inflame,</l>
+               <l>Doth it not clearely repreſent the ſame?</l>
+            </lg>
+            <lg>
+               <l>When as I ſee them ſwell on the Ale-bench,</l>
+               <l>Bellow, blaſpheme, and wallow in the ſtench.</l>
+               <l>Hell's nothing elſe I think<hi>:</hi> Or if not it,</l>
+               <l>Yet ſure it leades to that infernall pit.</l>
+            </lg>
+            <lg>
+               <l>Well may we then conclude, the drunken ſot</l>
+               <l>Muſt pledge himſelfe in fire and brimſtone hot.</l>
+               <l>It is moſt ſad, and yet moſt true, they'll find</l>
+               <l>Two hels; one here, another yet behind.</l>
+               <l>May this thy burning glaſſe the conſcience ſcorch</l>
+               <l>Of Drunkards, while they are yet in the porch</l>
+               <l>Of hell; and ſo moſt happily ſuſpend</l>
+               <l>Direfull infernall flames world without end. <hi>Amen.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>So ſingeth and prayeth Your reſpectfull friend, <hi>Iohn Tilſley,</hi> Paſtor of Deane Ch. <hi>Lancaſhire.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170152:24"/>
+            <head>To my worthily eſteemed Friend, Mr <hi>Joſeph Rigby,</hi> upon his Drunkards Proſpective.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <lg>
+               <l>TO need no friends, t'have friends in need,</l>
+               <l>Both good: for This y' have friends indeed:</l>
+               <l>This will immortalize, when read,</l>
+               <l>Your fame; advance your bliſſe when dead.</l>
+               <l>This will I hope the grave controll,</l>
+               <l>And prove yours is an heaven-born ſoule.</l>
+            </lg>
+            <lg>
+               <l>In this glaſſe purblind eyes may ſee</l>
+               <l>Drunkards not men, but monſters be.</l>
+               <l>Dead, yet alive; of humane kind</l>
+               <l>The ſcab, the ſhame: Alſo I find,</l>
+               <l>Them voluntary Daemons ſtil'd;</l>
+               <l>Even hell it ſelfe's with them defil'd.</l>
+               <l>Thither their ſouls ride poſt to burne,</l>
+               <l>Leaving their partners in the urne<hi>:</hi>
+               </l>
+               <l>I may enlarge my creed, and tell</l>
+               <l>My flock, the world; Beaſts go to hell.</l>
+               <l>Chriſ. hom. 57, 58. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <hi>Patmos</hi> for ſuch ordained is,</l>
+               <l>Or <hi>Philip</hi>'s Poneropolis.</l>
+               <l>Could they command that Golden ore</l>
+               <l>On <hi>Tagus</hi> or <hi>Pactolus</hi> ſhore,</l>
+               <l>Moſt pretious pearles, the Indian Mine,</l>
+               <l>Or thoſe rich Diamonds that ſhine</l>
+               <l>
+                  <pb facs="tcp:170152:25"/>
+As ſtarrs of the firſt M. Theſe elves</l>
+               <l>Would gulch all downe, and damne themſelves.</l>
+               <l>What vice more vile, ſpeak if thou canſt,</l>
+               <l>That beaſtiates and ſo much unmans?</l>
+               <l>Ethnicks abhor it, and ſhall I</l>
+               <l>Tipple, like German ſots, then dye.</l>
+            </lg>
+            <lg>
+               <l>Our age (like <hi>Auguſtines)</hi> Synods needs</l>
+               <l>T'extir pate theſe peſtiferous weeds.</l>
+               <l>This may conduce much to ſuppreſſe</l>
+               <l>Theſe <hi>Swetian Ierſs</hi> and drunkenneſſe.</l>
+               <l>From which the Apoſtate Angels be</l>
+               <l>(Spirits they are and therefore) free.</l>
+               <l>
+                  <hi>Zeno, Anacreon, Childerick,</hi>
+               </l>
+               <l>And that Rovergnian Catholick.</l>
+               <l>
+                  <hi>Alexander, Philoſtrates,</hi>
+               </l>
+               <l>
+                  <hi>Bonolus</hi> and <hi>Cleomenes,</hi>
+               </l>
+               <l>Were they alive to read this book,</l>
+               <l>On ſparkling cups would ne'r more look.</l>
+               <l>In war, your fortitude and skill</l>
+               <l>Appear'd; in peace your learned quill</l>
+               <l>Proclaims with lively voice your parts</l>
+               <l>Not meane: ſcope good, good lives and hearts.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Leſſius</hi> his rules for temperance,</l>
+               <l>Him to eternity advance.</l>
+               <l>Yours you<hi>:</hi> I 'ave read, practis'd, and find</l>
+               <l>A healthfull body, and ſound mind.</l>
+            </lg>
+            <lg>
+               <l>As <hi>Grotius</hi> vers'd at eight years old,</l>
+               <l>So you at <hi>Eaton</hi> (as I'm told)</l>
+               <l>Where <hi>Chryſoſtom</hi>'s tome to preſſe you writ,</l>
+               <l>As <hi>Savile</hi> had collected it.</l>
+               <l>Your ſtraine is plaine; ſweeter to me,</l>
+               <l>Nutmegs gilded rotten I ſee.</l>
+               <l>Magnetick vertue ſure here lies,</l>
+               <l>It ſo attracts my heart and eyes.</l>
+               <l>
+                  <pb facs="tcp:170152:25"/>
+Whilſt ſome are toxicate with wines,</l>
+               <l>I'm jealous leſt I with your lines.</l>
+               <l>As <hi>Bellarmine</hi> of <hi>Kempis</hi> ſaid,</l>
+               <l>As often new as it is read.</l>
+               <l>Every morne grave <hi>Seneca,</hi>
+               </l>
+               <l>Deem'd the world new, with the new day;</l>
+               <l>And I your work; the drunkards cup</l>
+               <l>And character, <hi>This Glaſſe</hi> makes up.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Salvius Otho</hi> had a glaſſe</l>
+               <l>
+                  <hi>(Sueton</hi> reports) in which his face</l>
+               <l>Each houre he view'd, to keep it free</l>
+               <l>From ſpots: <hi>This</hi> ours from Anomie.</l>
+            </lg>
+            <lg>
+               <l>'Tis writ that <hi>Boleſlaus</hi> King</l>
+               <l>Of <hi>Poland,</hi> ever had a thing,</l>
+               <l>His fathers portraicture in's eye,</l>
+               <l>Which kept him from Ebriety.</l>
+               <l>Let this your <hi>(Vade mecum)</hi> bee</l>
+               <l>Bequeath'd to your vive progeny,</l>
+               <l>With your paternall bleſſing; then</l>
+               <l>They'll not prove monſters, but good men.</l>
+               <l>Better enough then all: 'tis ſuch,</l>
+               <l>Leſſe were too little, more too much.</l>
+               <l>I'll ſay no more; I could no leſſe,</l>
+               <l>Writer, reader, writ heavens bleſſe.</l>
+            </lg>
+            <closer>
+               <signed>So prayeth Your reall and cordially reſpective Friend, <hi>James Liveſay,</hi> Miniſter at <hi>Chow-bent Lancaſhire.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170152:26"/>
+            <head>To my Noble Colonell; <hi>Joſeph Rigbye,</hi> Now Clerke of the Peace, for our County Palatine of <hi>Lancaſter.</hi>
+            </head>
+            <lg>
+               <l>THY worth for to ſet forth, I do forbeare,</l>
+               <l>I knowthou lov'ſt not thine own praiſe to hear;</l>
+               <l>This truth I hope will not offend to tell</l>
+               <l>Thou'ſt been my Captaine, Major, Colonell.</l>
+               <l>And I my ſelfe have ſeen thy manly parts,</l>
+               <l>Strike courage into all thy ſouldiers hearts.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This Glaſſe</hi> revives thy fame; and ſtill makes us</l>
+               <l>Call thee our <hi>Magnus, Major, Maximus.</hi>
+               </l>
+               <l>For here thou pictur'ſt nothing with thy pen,</l>
+               <l>But what thy cane did print upon thy men.</l>
+               <l>Long mai'ſt thou live in Peace, who haſt ſo far</l>
+               <l>Adventured thy ſelfe in time of war.</l>
+               <l>And let him loſe the love of <hi>Iohn a Gant,</hi>
+               </l>
+               <l>That ſhall unjuſtly ſeek thee to ſupplant.</l>
+            </lg>
+            <closer>
+               <signed>Thy meaneſt, yet faithfull Servant, expecting (as heretofore) but the word of command, <hi>Humphrey Maulebone.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170152:26"/>
+            <head>To his his true beloved Friend and Kinſman Mr <hi>Ioſeph Rigbye.</hi>
+            </head>
+            <lg>
+               <l>IN ſpite of envy and illiterate pride,</l>
+               <l>Thou ſtand'ſt by noble judgements juſtifi'd.</l>
+               <l>Behold, the ſword extols thee, and the pen</l>
+               <l>Of honoured, learned, young and ancient men,</l>
+               <l>Rings forth thy praiſe; That more for to relate</l>
+               <l>Their ſuffrages were to prejudicate.</l>
+            </lg>
+            <lg>
+               <l>Obſerve the order of thy ſpirituall guide,</l>
+               <l>And make mad ſwearing his drunk fyre beſtride,</l>
+               <l>And ſtagger both to hell; and with the club</l>
+               <l>Thou bang'd the fyre, cudgell that ugly cub;</l>
+               <l>He's ramping mad to ſee his fyre thus bang'd,</l>
+               <l>And ſwears he'll kill and ſtay, though he be hang'd,</l>
+               <l>Nay damned too: And in this bloudy rage,</l>
+               <l>He dares thee to the clod for to engage.</l>
+               <l>Charge this Orgoglio, drunken Cyclop's ſon,</l>
+               <l>Daſh out his brains, and then thy work is done.</l>
+               <l>Advance I ſay once more, reſume thy Club,</l>
+               <l>And ſend both brat and fyre to Belzebub<hi>:</hi>
+               </l>
+               <l>There let them roar and ſwear, and drink and ſpew,</l>
+               <l>Such as their Grand-dam Proſerpin doth brew.</l>
+               <l>The task's not great, if thou'l but add a will</l>
+               <l>To thine approv'd ability and skill.</l>
+            </lg>
+            <closer>
+               <signed>Thine in any expedition againſt impiety, <hi>Ja. Rigbie:</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170152:27"/>
+            <head>To his worthily honoured Friend, Colonell <hi>Joſeph Rigby.</hi>
+            </head>
+            <opener>
+               <salute>Colonell,</salute>
+            </opener>
+            <l>BEhold thy burning Glaſſe caſts ſuch a light,</l>
+            <l>That Drunkards daz'led run and loſe their ſight;</l>
+            <l>But thy Proſpective ſhews men how to ſhun</l>
+            <l>The D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unken rout which way ſo e't they run.</l>
+            <l>I once rejoic'd with thee to ſerve the ſtate,</l>
+            <l>And now thy works to read and contemplate.</l>
+            <l>In war thy flying colours they did ſhew,</l>
+            <l>The way to vanquiſh and ſubdue the foe.</l>
+            <l>I peace, thou ſtrik'ſt alarums to the times,</l>
+            <l>To purge the earth of its moſt horrid crimes.</l>
+            <l>March on then Major, and my prayer ſhall bee,</l>
+            <l>In chaſe of vice great troopes may follow thee.</l>
+            <closer>
+               <signed>Ch. Carr.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170152:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
